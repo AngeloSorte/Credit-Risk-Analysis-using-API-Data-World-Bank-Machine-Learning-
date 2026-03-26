@@ -1,4 +1,4 @@
-# Credit Risk Analysis using API Data
+# Financial Risk Insights using Live API Data
 
 This project demonstrates a real-world machine learning pipeline using live data from the World Bank API.
 
